@@ -18,7 +18,7 @@ Pandas: For data cleaning, manipulation, and analysis.
 
 Scikit-learn (Sklearn): For building and training the decision tree prediction model.
 
-# Power BI: For creating an interactive dashboard to visualize insights and trends related to appointment no-shows.
+Power BI: For creating an interactive dashboard to visualize insights and trends related to appointment no-shows.
 
 # Deliverables
 Prediction Model: A trained decision tree model capable of predicting patient no-shows.

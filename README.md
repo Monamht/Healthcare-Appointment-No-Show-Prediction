@@ -40,12 +40,12 @@ Gender: Breakdown of no-show rates by gender.
 
 Neighborhood: Geographical analysis of no-show rates.
 
-# Contributor
-Name: Monisha Mahato
-Email id: monishamht05@gmail.com
-
 Month: Monthly trends in no-show rates.
 
 Disease: Distribution of no-shows across different disease categories.
 
 This project offers a comprehensive solution for healthcare providers to proactively manage appointment no-shows, leading to improved resource utilization and better patient care.
+
+# Contributor
+Name: Monisha Mahato
+Email id: monishamht05@gmail.com
